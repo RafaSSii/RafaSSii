@@ -13,10 +13,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaSSii&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSSii&layout=compact&theme=tokyonight" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaSSii&show_icons=true&theme=tokyonight)
 
 ---
 
