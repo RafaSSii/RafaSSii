@@ -11,12 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaSSii&show_icons=true&theme=tokyonight)
-
----
-
 ## 🚀 Tecnologias que uso no dia a dia
 
 <p align="center">
