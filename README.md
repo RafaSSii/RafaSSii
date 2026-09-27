@@ -29,11 +29,8 @@ Atualmente estou explorando diferentes áreas do desenvolvimento, com foco princ
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ### 🌐 Web & Backend
@@ -41,7 +38,6 @@ Atualmente estou explorando diferentes áreas do desenvolvimento, com foco princ
 <p>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
@@ -49,7 +45,6 @@ Atualmente estou explorando diferentes áreas do desenvolvimento, com foco princ
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
@@ -62,15 +57,6 @@ Atualmente estou explorando diferentes áreas do desenvolvimento, com foco princ
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🛠️ Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
-
 ---
 
 ## 🚧 Atualmente estudando
@@ -78,34 +64,9 @@ Atualmente estou explorando diferentes áreas do desenvolvimento, com foco princ
 ```text
 Ruby on Rails
 FastAPI
-Kotlin
-Swift
-React Native
-Arquitetura de Software
 APIs REST
-Banco de Dados
-Git & GitHub
 ```
 
----
-
-## 📌 Projetos em destaque
-
-### 💰 Finance SaaS
-
-Aplicação web para gerenciamento financeiro, desenvolvida com **Ruby on Rails, PostgreSQL e Tailwind CSS**.
-
-> Projeto em desenvolvimento.
-
----
-
-### 📱 MotorCheck
-
-Aplicação mobile voltada para o acompanhamento da manutenção de veículos.
-
-**Stack:** React Native + TypeScript + Node.js + Prisma + PostgreSQL.
-
----
 
 ### ☕ Projetos Java
 
