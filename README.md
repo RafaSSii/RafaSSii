@@ -67,48 +67,9 @@ FastAPI
 APIs REST
 ```
 
-
-### ☕ Projetos Java
-
-Projetos desenvolvidos para estudar **Java, JavaFX, MVC, PostgreSQL e desenvolvimento de aplicações desktop**.
-
----
-
 ### ✝️ Projetos acadêmicos
 
 Também desenvolvo projetos relacionados às atividades da graduação, explorando desenvolvimento web, sistemas desktop, aplicações mobile e engenharia de software.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaSSii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSSii&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo é evoluir continuamente como desenvolvedor, construindo projetos cada vez mais próximos de aplicações reais e desenvolvendo uma base sólida em **engenharia de software**.
-
-```text
-Aprender → Construir → Errar → Melhorar → Repetir
-```
-
----
-
-## 📫 Contato
-
-<p>
-  <a href="https://github.com/RafaSSii">
-    <img src="https://img.shields.io/badge/GitHub-RafaSSii-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Obrigado por visitar meu perfil! 🚀</i>
-</p>
