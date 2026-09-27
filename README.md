@@ -1,48 +1,153 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 Olá, eu sou Rafael Santos
 
-###
+### 💻 Desenvolvedor em formação | Software Engineering
 
-<h1 align="center">hey there 👋</h1>
+> **"Ora et labora."**
 
-###
+Sou estudante de **Sistemas de Informação** e gosto de transformar ideias em software.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Atualmente estou explorando diferentes áreas do desenvolvimento, com foco principalmente em **Backend, Mobile e desenvolvimento de aplicações web**.
 
-###
+---
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning RubyOnRails and C</p>
+## 🚀 Sobre mim
 
-###
+* 🎓 Estudante de **Sistemas de Informação**
+* 💻 Desenvolvendo projetos para aprender na prática
+* 🌐 Explorando desenvolvimento **Web**
+* 📱 Desenvolvendo aplicações **Mobile**
+* ⚙️ Estudando **Backend e APIs**
+* 🗄️ Trabalhando com bancos de dados relacionais
+* 🧠 Sempre buscando aprender novas tecnologias e boas práticas
+* 🛠️ Gosto de transformar projetos acadêmicos em aplicações cada vez mais completas
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🧰 Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+### 💻 Linguagens
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
 
+### 🌐 Web & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 📱 Mobile & Desktop
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### 🗄️ Banco de dados
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+## 🚧 Atualmente estudando
+
+```text
+Ruby on Rails
+FastAPI
+Kotlin
+Swift
+React Native
+Arquitetura de Software
+APIs REST
+Banco de Dados
+Git & GitHub
+```
+
+---
+
+## 📌 Projetos em destaque
+
+### 💰 Finance SaaS
+
+Aplicação web para gerenciamento financeiro, desenvolvida com **Ruby on Rails, PostgreSQL e Tailwind CSS**.
+
+> Projeto em desenvolvimento.
+
+---
+
+### 📱 MotorCheck
+
+Aplicação mobile voltada para o acompanhamento da manutenção de veículos.
+
+**Stack:** React Native + TypeScript + Node.js + Prisma + PostgreSQL.
+
+---
+
+### ☕ Projetos Java
+
+Projetos desenvolvidos para estudar **Java, JavaFX, MVC, PostgreSQL e desenvolvimento de aplicações desktop**.
+
+---
+
+### ✝️ Projetos acadêmicos
+
+Também desenvolvo projetos relacionados às atividades da graduação, explorando desenvolvimento web, sistemas desktop, aplicações mobile e engenharia de software.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaSSii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSSii&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir continuamente como desenvolvedor, construindo projetos cada vez mais próximos de aplicações reais e desenvolvendo uma base sólida em **engenharia de software**.
+
+```text
+Aprender → Construir → Errar → Melhorar → Repetir
+```
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/RafaSSii">
+    <img src="https://img.shields.io/badge/GitHub-RafaSSii-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Obrigado por visitar meu perfil! 🚀</i>
+</p>
